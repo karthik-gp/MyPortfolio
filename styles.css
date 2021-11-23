@@ -6,6 +6,25 @@ a{
     color: black !important;
  }
 
+ a:link{
+     text-decoration: none;
+}
+
+a.kp , a.About , a.Projects{
+    color: white !important;
+}
+
+a.front-end:hover{
+    color: gold !important;
+}
+
+a.coding:hover{
+    color:    #00FFFF !important;
+}
+
+a.certi:hover{
+    color: white !important;
+}
 
 .navbar{
     background-color: #314199;
